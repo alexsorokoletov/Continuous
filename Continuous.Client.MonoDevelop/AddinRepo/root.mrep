@@ -6,7 +6,7 @@
       <Id>Continuous.Client.MonoDevelop</Id>
       <Namespace>Continuous.Client.MonoDevelop</Namespace>
       <Name>Continuous Coding</Name>
-      <Version>1.6.3</Version>
+      <Version>1.6.4</Version>
       <BaseVersion />
       <Author>Frank A. Krueger</Author>
       <Copyright />
@@ -16,15 +16,15 @@
       <Dependencies>
         <AddinDependency>
           <AddinId>::MonoDevelop.Core</AddinId>
-          <Version>5.10.1</Version>
+          <Version>6.0</Version>
         </AddinDependency>
         <AddinDependency>
           <AddinId>::MonoDevelop.Ide</AddinId>
-          <Version>5.10.1</Version>
+          <Version>6.0</Version>
         </AddinDependency>
         <AddinDependency>
           <AddinId>::MonoDevelop.Refactoring</AddinId>
-          <Version>5.10.1</Version>
+          <Version>6.0</Version>
         </AddinDependency>
       </Dependencies>
       <OptionalDependencies />
